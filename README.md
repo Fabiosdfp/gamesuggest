@@ -1,4 +1,4 @@
-# 🎮 Games Suggest - Seu Hub de Sugestões
+# Games Suggest - Seu Hub de Sugestões
 
 Este repositório faz parte da disciplina Desenvolvimento Front-End Avançado da PUC-Rio, integrante do curso de Pós-Graduação em Desenvolvimento Fullstack.
 
@@ -8,21 +8,21 @@ Uma plataforma web moderna e interativa para descobrir jogos incríveis curados 
 ![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF?style=flat&logo=vite)
 ![React Router](https://img.shields.io/badge/React_Router-6.20.0-CA4245?style=flat&logo=react-router)
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Games Suggest é uma aplicação web que oferece sugestões de jogos curados pela nossa equipe apaixonada. Explore uma coleção selecionada de jogos organizados por plataforma, com filtros avançados e informações detalhadas. O projeto foi desenvolvido como parte da disciplina de Frontend Avançado, seguindo as melhores práticas de componentização e design responsivo.
 
-### ✨ Funcionalidades Principais
+### Funcionalidades Principais
 
-- 🏠 **Página Inicial**: Visão geral da biblioteca com estatísticas e destaques
-- 📚 **Biblioteca**: Catálogo completo com busca, filtros e ordenação
-- 🎯 **Detalhes do Jogo**: Informações completas de cada título
-- ⭐ **Lista de Desejos**: Gerenciamento de jogos desejados
-- 🔍 **Busca em Tempo Real**: Encontre jogos rapidamente pelo título
-- 🎨 **Design Responsivo**: Funciona perfeitamente em desktop, tablet e celular
-- ⚡ **Feedback Visual**: Animações e notificações de ações do usuário
+- **Página Inicial**: Visão geral da biblioteca com estatísticas e destaques
+- **Biblioteca**: Catálogo completo com busca, filtros e ordenação
+- **Detalhes do Jogo**: Informações completas de cada título
+- **Lista de Desejos**: Gerenciamento de jogos desejados
+- **Busca em Tempo Real**: Encontre jogos rapidamente pelo título
+- **Design Responsivo**: Funciona perfeitamente em desktop, tablet e celular
+- **Feedback Visual**: Animações e notificações de ações do usuário
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React 18.2.0** - Biblioteca JavaScript para construção de interfaces
 - **React Router 6.20.0** - Gerenciamento de rotas e navegação
@@ -30,7 +30,7 @@ Games Suggest é uma aplicação web que oferece sugestões de jogos curados pel
 - **CSS3** - Estilização com design moderno e responsivo
 - **JavaScript (ES6+)** - Sem TypeScript, conforme requisito
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 frontendavancado/
@@ -63,7 +63,7 @@ frontendavancado/
 └── README.md
 ```
 
-## 🚀 Instalação e Execução
+## Instalação e Execução
 
 ### Pré-requisitos
 
@@ -101,11 +101,11 @@ Abra seu navegador e acesse: `http://localhost:5173`
 - `npm run build` - Cria a versão de produção
 - `npm run preview` - Visualiza a versão de produção localmente
 
-## 🎯 Requisitos Atendidos
+## Requisitos Atendidos
 
-### ✅ Componentização (3,5 pts)
+### Componentização (3,5 pts)
 
-- ✓ **8 componentes reutilizáveis criados:**
+- **8 componentes reutilizáveis criados:**
   1. Header - Cabeçalho com navegação
   2. GameCard - Card de jogo
   3. SearchBar - Barra de busca
@@ -115,49 +115,49 @@ Abra seu navegador e acesse: `http://localhost:5173`
   7. Alert - Alertas de feedback
   8. Breadcrumb - Navegação estrutural
 
-- ✓ **Componentes utilizados em múltiplas páginas**
-- ✓ **Interface original com elementos personalizados**
-- ✓ **Simulação de API com leitura de JSON**
+- **Componentes utilizados em múltiplas páginas**
+- **Interface original com elementos personalizados**
+- **Simulação de API com leitura de JSON**
 
-### ✅ React e Roteamento (2,5 pts)
+### React e Roteamento (2,5 pts)
 
-- ✓ **Uso correto de hooks:**
+- **Uso correto de hooks:**
   - `useState` - Gerenciamento de estados
   - `useEffect` - Efeitos colaterais e carregamento de dados
   - `useParams` - Captura de parâmetros da URL (ID do jogo)
   - `useNavigate` - Navegação programática
   - `useLocation` - Leitura da URL atual e query params
 
-- ✓ **4 rotas principais + rota 404:**
+- **4 rotas principais + rota 404:**
   - `/` - Home
   - `/biblioteca` - Biblioteca
   - `/jogo/:id` - Detalhes
   - `/wishlist` - Lista de Desejos
   - `*` - Página 404
 
-### ✅ Usabilidade (2 pts)
+### Usabilidade (2 pts)
 
-- ✓ **Feedback visual:**
+- **Feedback visual:**
   - Loading spinners durante carregamento
   - Alertas de sucesso/erro
   - Animações em hover e transições
   - Modal de confirmação
   - Mensagens contextuais ("nenhum jogo encontrado")
 
-- ✓ **Layout responsivo:**
+- **Layout responsivo:**
   - Mobile (< 480px)
   - Tablet (< 768px)
   - Desktop (> 768px)
 
-### ✅ Organização e Documentação (2 pts)
+### Organização e Documentação (2 pts)
 
-- ✓ Projeto no GitHub
-- ✓ README.md completo com instruções
-- ✓ Estrutura de pastas organizada
-- ✓ Convenções de nomenclatura consistentes
-- ✓ Comentários em código quando necessário
+- Projeto no GitHub
+- README.md completo com instruções
+- Estrutura de pastas organizada
+- Convenções de nomenclatura consistentes
+- Comentários em código quando necessário
 
-## 📱 Páginas da Aplicação
+## Páginas da Aplicação
 
 ### 1. Home (`/`)
 - Visão geral da biblioteca
@@ -191,7 +191,7 @@ Abra seu navegador e acesse: `http://localhost:5173`
 - Botões de navegação para Home e Biblioteca
 - Animações divertidas
 
-## 🎨 Design e UX
+## Design e UX
 
 ### Paleta de Cores
 
@@ -209,7 +209,7 @@ Abra seu navegador e acesse: `http://localhost:5173`
 - Animações sutis em hover
 - Ícones emoji para identidade visual divertida
 
-## 📊 Dados Mockados
+## Dados Mockados
 
 A aplicação utiliza um arquivo JSON com 12 jogos distribuídos em 3 plataformas:
 
@@ -219,30 +219,8 @@ A aplicação utiliza um arquivo JSON com 12 jogos distribuídos em 3 plataforma
 
 A simulação de API inclui delay artificial para demonstrar estados de loading.
 
-## 🔄 Hooks do React Router Utilizados
+## Hooks do React Router Utilizados
 
 1. **useParams** - Captura o ID do jogo na URL para exibir detalhes
 2. **useNavigate** - Redireciona usuário entre páginas programaticamente
 3. **useLocation** - Lê query parameters para filtros e destaca link ativo
-
-## 🌟 Diferenciais do Projeto
-
-- Interface moderna e profissional
-- Experiência de usuário fluida
-- Feedback visual constante
-- Design responsivo completo
-- Componentização avançada
-- Código limpo e organizado
-- Documentação detalhada
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como parte do curso de Frontend Avançado.
-
-## 👨‍💻 Autor
-
-Desenvolvido como projeto da disciplina de Frontend Avançado - PUC
-
----
-
-⭐ Se você gostou deste projeto, considere dar uma estrela no repositório!
