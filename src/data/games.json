@@ -1,0 +1,104 @@
+{
+  "Nintendo": [
+    {
+      "id": "zelda-botw",
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "nota": 97,
+      "comentario": "Revolucionou os jogos de mundo aberto com liberdade total e exploração criativa.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png",
+      "plataforma": "Nintendo"
+    },
+    {
+      "id": "mario-odyssey",
+      "titulo": "Super Mario Odyssey",
+      "nota": 97,
+      "comentario": "Uma aventura vibrante e inovadora com mecânicas únicas de chapéu.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+      "plataforma": "Nintendo"
+    },
+    {
+      "id": "animal-crossing",
+      "titulo": "Animal Crossing: New Horizons",
+      "nota": 90,
+      "comentario": "Simulação relaxante de vida em ilha, fenômeno cultural durante a pandemia.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c0/Animal_Crossing_New_Horizons_capa.png",
+      "plataforma": "Nintendo"
+    },
+    {
+      "id": "xenoblade",
+      "titulo": "Xenoblade Chronicles: Definitive Edition",
+      "nota": 92,
+      "comentario": "RPG épico com narrativa envolvente e batalhas estratégicas.",
+      "imagem": "https://th.bing.com/th/id/R.2965d380f9f1b431a4ff7e07e0d1424f?rik=xt41w30niVpGuQ&pid=ImgRaw&r=0",
+      "plataforma": "Nintendo"
+    }
+  ],
+  "RTS_PC": [
+    {
+      "id": "aoe2",
+      "titulo": "Age of Empires II: Definitive Edition",
+      "nota": 94,
+      "comentario": "Clássico da estratégia em tempo real, ainda relevante décadas depois.",
+      "imagem": "https://tse3.mm.bing.net/th/id/OIP.xPbUEdqdkhSrJYmJIcWwIQHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "plataforma": "PC"
+    },
+    {
+      "id": "starcraft2",
+      "titulo": "StarCraft II",
+      "nota": 93,
+      "comentario": "Referência em eSports e estratégia sci-fi com jogabilidade competitiva.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/40/StarCraft_II_capa.jpg",
+      "plataforma": "PC"
+    },
+    {
+      "id": "company-heroes",
+      "titulo": "Company of Heroes",
+      "nota": 90,
+      "comentario": "Estratégia militar realista ambientada na Segunda Guerra Mundial.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Company_of_Heroes_Cover.jpg",
+      "plataforma": "PC"
+    },
+    {
+      "id": "warhammer2",
+      "titulo": "Total War: Warhammer II",
+      "nota": 88,
+      "comentario": "Mistura batalhas em tempo real com gerenciamento de impérios em fantasia.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Total_War_Warhammer_2_capa.png",
+      "plataforma": "PC"
+    }
+  ],
+  "Playstation_RPG": [
+    {
+      "id": "ff7-rebirth",
+      "titulo": "Final Fantasy VII Rebirth",
+      "nota": 95,
+      "comentario": "Reimaginação moderna de um clássico com narrativa expandida.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Final_Fantasy_7_Rebirth_capa.png/433px-Final_Fantasy_7_Rebirth_capa.png",
+      "plataforma": "PlayStation"
+    },
+    {
+      "id": "witcher3",
+      "titulo": "The Witcher 3: Wild Hunt",
+      "nota": 94,
+      "comentario": "RPG de mundo aberto com escolhas que impactam profundamente a história.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+      "plataforma": "PlayStation"
+    },
+    {
+      "id": "elden-ring",
+      "titulo": "Elden Ring",
+      "nota": 96,
+      "comentario": "Exploração em mundo aberto com combate desafiador e lore profundo.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0d/Elden_Ring_capa.jpg",
+      "plataforma": "PlayStation"
+    },
+    {
+      "id": "cyberpunk",
+      "titulo": "Cyberpunk 2077",
+      "nota": 86,
+      "comentario": "RPG futurista em Night City com narrativa ramificada e liberdade de escolhas.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+      "plataforma": "PlayStation"
+    }
+  ]
+}
